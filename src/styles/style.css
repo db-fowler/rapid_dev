@@ -1,0 +1,30 @@
+body{
+--primary: #010349;
+}
+.col{
+  display: flex;
+  flex-direction: column;
+}
+.row{
+  display: flex;
+  flex-direction: row;
+}
+.center {
+  align-items: center;
+  justify-content: center;
+}
+.rel {
+  position: relative;
+}
+.top {
+  top: 0;
+}
+.left {
+  left: 0;
+}
+.right {
+  right: 0;
+}
+.bottom {
+  bottom: 0;
+}
